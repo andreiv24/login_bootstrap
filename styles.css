@@ -1,0 +1,21 @@
+.col-4 {
+    background-image: url("Background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.col {
+    background-color: white;
+    
+}
+
+.btn {
+    background-color: #2368e9;
+    color: #EFEFEF;
+    padding: 5px 20px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
